@@ -1,2 +1,2 @@
-# Capstone---2_Retail_Sales_Prediction-Supervised-ML---Regression-
-Here I am solving a Regression Problem, called as "Retail Sales Prediction" through Regression - Supervised ML Algorithms
+# Capstone-2_Retail_Sales_Prediction_[Regression_Supervised-ML]
+Here I am solving a Regression Problem, called as "Retail Sales Prediction" with Supervised ML Algorithms
